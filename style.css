@@ -1,0 +1,15 @@
+body
+{
+    text-align: center;
+}
+
+#app {
+    background-color: rgb(17, 19, 20);
+}
+
+#myCarousel
+{
+    background-color: red;
+}
+
+
